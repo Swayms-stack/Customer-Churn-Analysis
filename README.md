@@ -1,4 +1,21 @@
-**Customer-Churn-Analysis**
+***Churn Analysis Project (Telecom Industry)***
+
+**Situation :**  
+Analyzed customer churn within the telecom industry to identify key drivers and predict future churners for targeted retention efforts.
+
+**Task :**
+Developed a churn analysis dashboard to provide insights into customer behaviour and predict churn risk.
+
+**Action :**
+Data Acquisition & Transformation: Utilized Microsoft SQL Server to build a database architecture for customer data. Extracted and loaded customer information from source files. Created SQL views to transform data for analysis.
+Machine Learning Model Development: Employed Python and Jupyter Notebook to build a Random Forest model for churn prediction. Trained and tested the model on customer data subsets.
+Power BI Dashboard Construction: Designed a comprehensive dashboard in Power BI to visualize churn metrics, customer profiles, and churn prediction results.
+
+**Result :**
+Delivered a churn analysis dashboard that facilitated :-
+Churn Driver Identification: Uncovered key factors influencing customer churn.  
+Predictive Churn Risk Assessment: Identified potential future churners for targeted retention campaigns.  
+Data-Driven Marketing Strategies: Enabled development of targeted marketing campaigns to improve customer retention.  
 
 *Kindly click on this link to check out the dashboard* : https://tinyurl.com/4hjz7c6c  
 
